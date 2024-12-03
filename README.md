@@ -12,3 +12,9 @@ Day 1, 12/1/2024
 Day 2, 12/2/2024
  - Written in C++
  - [View day 2 code](https://github.com/RenderBr/Advent-of-Code-2024/tree/main/day2advent)
+
+## **Mull It Over**
+Day 3, 12/3/2024
+ - Written in Rust
+ - I got a bit lazy with this one for part two haha, just resorting to "contains" for `do` and `don't` commands.
+ - [View day 3 code]()
