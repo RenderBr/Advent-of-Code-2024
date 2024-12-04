@@ -1,5 +1,5 @@
 # Advent of Code 2024
- Shitty, rushed code solving https://adventofcode.com/ challenges for 2024. 
+ Rushed code solving https://adventofcode.com/ challenges for 2024. 
  
  The idea for my solutions are to use approaches that use little of the built-in methods and functions, and implement my own algorithms, processing, etc. I don't want to rely on those for this project to solidify my understanding of rudimentary coding. This is why you will see me implementing things very explicitly despite understanding they exist already elsewhere.
 
