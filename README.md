@@ -29,4 +29,4 @@ Day 4, 12/4/2024
 Day 5, 12/5/2024
  - Written in Java
  - Remind me to use C# instead of Java 😅
- - [View day 4 code](https://github.com/RenderBr/Advent-of-Code-2024/tree/main/day5advent)
+ - [View day 5 code](https://github.com/RenderBr/Advent-of-Code-2024/tree/main/day5advent)
