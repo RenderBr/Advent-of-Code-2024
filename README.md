@@ -30,3 +30,9 @@ Day 5, 12/5/2024
  - Written in Java
  - Remind me to use C# instead of Java 😅
  - [View day 5 code](https://github.com/RenderBr/Advent-of-Code-2024/tree/main/day5advent)
+   
+## **Guard Gallivant**
+Day 6, 12/6/2024
+ - Written in Go
+ - I wanted to make a better system for identifying loops and possible loops but I don't know if i have the time for it, for now we use bruteforcing 😂
+ - [View day 6 code](https://github.com/RenderBr/Advent-of-Code-2024/tree/main/day6advent)
