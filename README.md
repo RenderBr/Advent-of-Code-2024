@@ -36,3 +36,9 @@ Day 6, 12/6/2024
  - Written in Go
  - I wanted to make a better system for identifying loops and possible loops but I don't know if i have the time for it, for now we use bruteforcing 😂
  - [View day 6 code](https://github.com/RenderBr/Advent-of-Code-2024/tree/main/day6advent)
+
+## **Bridge Repair**
+Day 7, 12/7/2024
+ - Written in Ruby
+ - This was the most painful one because I don't know Ruby, and because I completely misunderstood the task at first. For some reason, I expected subsets to also return true, when in reality it expects the full set of numbers to be operated on. The other mistake I made early on was for some reason thinking they wanted division and subtraction operators. This took way too long and when I realized that they didn't accept subsets, I felt so dumb.
+ - [View day 7 code](https://github.com/RenderBr/Advent-of-Code-2024/tree/main/day7advent)
